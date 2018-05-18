@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = AutoFormatAttributes::VERSION
   s.authors     = ["youtous"]
   s.email       = ["contact@youtous.me"]
-  s.homepage    = "https://youtous.me"
+  s.homepage    = "https://github.com/youtous/auto_format_attributes"
   s.summary     = "AutoFormatAttributes Rails model."
   s.description = "Help to format strings in Rails before validation of the Model."
   s.license     = "MIT"
