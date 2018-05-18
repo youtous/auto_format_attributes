@@ -1,0 +1,1 @@
+auto_format_attributes
